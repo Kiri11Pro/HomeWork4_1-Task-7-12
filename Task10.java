@@ -30,5 +30,4 @@ public class Task10 {
         }
         System.out.println(b);
     }
-
 }
